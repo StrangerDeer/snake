@@ -1,0 +1,18 @@
+{
+  "name" : "snake",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "23ceb9cbf9b6d32f485cf039547b70102a6ef9d8",
+  "dependencies" : [ {
+    "name" : "sdl2",
+    "version>=" : "2.0.10"
+  },{
+    "name" : "freetype",
+    "version>=" : "2.12.1#4"
+  }, {
+    "name" : "sdl2-image",
+    "version>=" : "2.6.3"
+  }, {
+    "name" : "sdl2-ttf",
+    "version>=" : "2.20.2"
+  } ]
+}
